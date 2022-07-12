@@ -3,6 +3,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+---
+
+### :fire: My Stats :
+
 <div  style="display: flex; flex; flex-direction: row;">
 <img width="47%" src="https://github-readme-stats.vercel.app/api?username=jeison-AK&show_icons=true&theme=radical&count_private=true" />
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeison-AK&layout=compact&theme=radical" />
@@ -30,6 +34,19 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=jeison-AK&style=flat-square&color=blue" alt=""/>
 </div>
+
+---
+
+### 👨‍💻 About Me :
+I am a Full Stack Developer from Colombia.
+
+- :telescope: I'm studying at Sena Analisis and Software Development and doing some other related courses on several platforms like Udemy, Coursera, and FreeCodeCamp.
+
+- :zap: In my free time, I solve problems on freeCodeCamp and read tech articles.
+
+- :seedling: English is my second language, and I'm now learning French.
+
+
 
 
 <!---
