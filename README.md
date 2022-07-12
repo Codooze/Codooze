@@ -50,14 +50,13 @@ I am a Full Stack Developer from Colombia.
 
 
 <!---
+TODO: 
+📌make a section about the languages and tecnologies I'm learning next, use round svg imgs
+
 Linkedin
 <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 Languages
 https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
 https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white
-
-
-
-
 -->
