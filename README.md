@@ -1,6 +1,6 @@
 <div  style="display: flex; flex-direction: row;">
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jeison-AK&show_icons=true&theme=radical&count_private=true" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeison-AK&layout=compact&theme=radical" />
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=jeison-AK&show_icons=true&theme=radical&count_private=true" />
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeison-AK&layout=compact&theme=radical" />
 </div>
 
 <img align="left" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
