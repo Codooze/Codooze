@@ -1,3 +1,8 @@
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 <div  style="display: flex; flex; flex-direction: row;">
 <img width="47%" src="https://github-readme-stats.vercel.app/api?username=jeison-AK&show_icons=true&theme=radical&count_private=true" />
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeison-AK&layout=compact&theme=radical" />
@@ -15,15 +20,15 @@
 <div id="social" align="center">
   <img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="100"/>
 
-  <div id="badges">
+ <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.codewars.com/users/jeison-AK">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    
 </div>
+  <img src="https://komarev.com/ghpvc/?username=jeison-AK&style=flat-square&color=blue" alt=""/>
 </div>
 
 
