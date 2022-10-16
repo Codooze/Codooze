@@ -28,11 +28,11 @@
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.codewars.com/users/jeison-AK">
+  <a href="https://www.codewars.com/users/Mehr-o-maah">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=jeison-AK&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Mehr-o-maah&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
