@@ -9,9 +9,9 @@
 
 <div  style="display: flex; flex; flex-direction: row;">
 <img width="47%" src="https://awesome-github-stats.azurewebsites.net/user-stats/Mehr-o-maah?cardType=level&theme=radical" />
-  <!---
+
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehr-o-maah&layout=compact&theme=radical" />
--->
+
 </div>
 
 <div  style="display: flex; flex-direction: row;">
