@@ -47,7 +47,7 @@
 ### 👨‍💻 About Me :
 I am a Full Stack Developer from Colombia.
 
-- :telescope: I'm studying at Sena Analisis and Software Development and doing some other related courses on several platforms like Udemy, Coursera, and FreeCodeCamp.
+- :telescope: I'm studying at Sena Analysis  and Software Development and doing some other related courses on several platforms like Udemy, Coursera, and FreeCodeCamp.
 
 - :zap: In my free time, I solve problems on freeCodeCamp and read tech articles.
 
