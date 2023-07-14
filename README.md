@@ -45,15 +45,15 @@
 ---
 
 ### 👨‍💻 About Me :
-I am a Full Stack Developer from Colombia.
+I am a Full Stack Developer from Colombia focusing mainly on the frontend.
 
-- :telescope: I'm studying Analysis  and Software Development and doing some other related courses on several platforms like Udemy, Coursera, and FreeCodeCamp.
+- :telescope: I'm studying Analysis and Software Development and often I do some other related courses on several platforms like Udemy, Coursera, and FreeCodeCamp.
 
-- :zap: In my free time, I solve problems on freeCodeCamp and read tech articles.
+- :zap: In my free time, I solve problems on platforms like freeCodeCamp, Codewars, etc., and read tech articles.
 
 - :seedling: English is my second language, and I'm now learning French.
 
-
+- 👨‍💻 currently learning `Svelte`.
 
 
 <!---
