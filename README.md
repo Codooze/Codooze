@@ -53,7 +53,7 @@ I am a Full Stack Developer from Colombia focusing mainly on the frontend.
 
 - :seedling: English is my second language, and I'm now learning French.
 
-- 👨‍💻 currently learning `Svelte`.
+- 👨‍💻 I'm currently learning `Svelte`.
 
 
 <!---
