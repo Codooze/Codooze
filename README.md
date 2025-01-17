@@ -22,7 +22,7 @@
  :fire: My Tech Stack :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,ts,css,scss,react,redux,jest,nodejs,postgres,graphql" />
+    <img src="https://skillicons.dev/icons?i=javascript,ts,css,scss,htmx,react,redux,jest,postgres,graphql,nodejs,go,docker" />
   </a>
 </p>
   <!---
